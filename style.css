@@ -1,0 +1,74 @@
+
+
+body {
+    background-image: url(hatter.jpg);
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(151, 1, 31);
+}
+
+.kozep1 {
+    left: 0;
+    line-height: 50px;
+    margin-top: -120px;
+    margin-inline: 50px;
+    margin-left: 10px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-bottom: 50px;
+    padding: 0;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+p {
+    font-style: italic;
+}
+
+
+.kozep2 {
+    left: 0;
+    line-height: 50px;
+    margin-top: -200px;
+    margin-left: 10px;
+    padding-bottom: 200px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+
+img {
+    width: 300px;
+}
+
+table {
+    position: absolute;
+    text-align: center;
+    top: 120%;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid rgb(226, 103, 103);
+    border-collapse: collapse;
+}
+
+.leiras {
+    text-align: justify;
+    padding: 15px;
+}
